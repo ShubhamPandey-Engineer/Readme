@@ -26,7 +26,7 @@ My name is Shubham Pandey
 ---
 ### Connect with me: </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="40">
 
-[<img align="left" alt="Shubham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([https://www.linkedin.com/in/shubhampnd/])
+[<img align="left" alt="Shubham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([https://www.linkedin.com/in/shubhampnd/])(https://www.linkedin.com/in/shubhampnd/)
 
 [<img align="left" alt="Shubham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](shubhampnd414@gmail.com)
 
