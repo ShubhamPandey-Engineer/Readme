@@ -28,8 +28,9 @@ My name is Shubham Pandey
 
 [<img align="left" alt="Nisar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shubhampnd/)
 
-[<img align="left" alt="Shubham | Gmail" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fmail-icon&psig=AOvVaw0XC53ibf0BOqkqclshJ9X7&ust=1708952122747000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDpw_TExoQDFQAAAAAdAAAAABAE" />]
 
+
+[<img align="left" alt="Nisar | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://png.pngtree.com/element_our/png/20181213/inbox-vector-icon-png_267453.jpg)" />](https://www.linkedin.com/in/shubhampnd/)
 
 
 <br/>
