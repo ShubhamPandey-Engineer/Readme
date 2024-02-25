@@ -11,7 +11,7 @@ My name is Shubham Pandey
 ---
 ### Connect with me: </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="40">
 
-<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
 
 [<img align="left" alt="Shubham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([https://www.linkedin.com/in/nisar99](https://www.linkedin.com/in/shubhampnd/))
 
