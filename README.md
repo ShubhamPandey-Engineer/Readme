@@ -36,7 +36,7 @@ My name is Shubham Pandey
 
 ### Github Stats:
 
-<img  align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Nisar-99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Nisar's Github Stats" width="48%">
+<img  align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=ShubhamPandey-Engineer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Shubham Pandey Github Stats" width="48%">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamPandey-Engineer&theme=radical&show_icons=true&border=e4e2e2" />
  
  <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ShubhamPandey-Engineer&row=4&theme=onedark&no-frame=true"/>
