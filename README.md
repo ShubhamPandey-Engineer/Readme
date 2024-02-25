@@ -2,22 +2,6 @@
 My name is Shubham Pandey
 
 
-
- ### ⚡ Components created so far...
-
-- ⚡ [Salesforce Custom Calendar][https://github.com/ShubhamPandey-Engineer/Leave-Tracker-LWC
-- ⚡ [Salesforce LWC Custom Lookup][[https://github.com/ShubhamPandey-Engineer/Leave-Tracker-LWC](https://github.com/ShubhamPandey-Engineer/LWC-Projects/tree/master/LWC-Projects/force-app/main/default/lwc/customLookupCmp)]
-
----
-### Connect with me: </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="40">
-
-<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
-
-[<img align="left" alt="Shubham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([https://www.linkedin.com/in/nisar99](https://www.linkedin.com/in/shubhampnd/))
-
-
-<br/>
-
 ### Languages and Tools:
 
 <img align="left" alt="Salesforce" width="34px" src="https://tootris.com/edu/wp-content/uploads/2020/10/SalesForce-Logo-TOOTRIS.png" />
@@ -32,6 +16,22 @@ My name is Shubham Pandey
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
+
+
+ ### ⚡ Components created so far...
+
+- ⚡ [Salesforce Custom Calendar][https://github.com/ShubhamPandey-Engineer/Leave-Tracker-LWC
+- ⚡ [Salesforce LWC Custom Lookup][[https://github.com/ShubhamPandey-Engineer/Leave-Tracker-LWC](https://github.com/ShubhamPandey-Engineer/LWC-Projects/tree/master/LWC-Projects/force-app/main/default/lwc/customLookupCmp)]
+
+---
+### Connect with me: </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="40">
+
+-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+[<img align="left" alt="Shubham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([https://www.linkedin.com/in/nisar99](https://www.linkedin.com/in/shubhampnd/))
+
+
+<br/>
 
 ### Github Stats:
 
