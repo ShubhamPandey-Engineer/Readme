@@ -1,24 +1,12 @@
-## Hi Salesforce Ohana👋
+## Hi 👋
+My name is Shubham Pandey
 
-Make Your Salesforce development faster using App and LWC Components.
-### 📕 Blog Posts
 
-[Salesforce Tech Bytes](http://nisar-dev.blogspot.com)
 
-### 🖥️ Tools
+ ### ⚡ Components created so far...
 
-1. [Salesforce LWC Editor `(Chrome Extension)`](https://chrome.google.com/webstore/detail/salesforce-lwc-editor/ehkpneicmpbdejpoancidgkejlkahjgo)
-1. [LWC Snippets `(VS Code Extension)`](https://marketplace.visualstudio.com/items?itemName=Nik-Creation.lwc-salesforce)
-2. [Salesforce Assistant `(Chrome Extension)`](https://chrome.google.com/webstore/detail/salesforce-assistant/acpngnlieelljdlljmenkagbonaicccj)
-3. [Salesforce Lightning Grid System `(Chrome Extension)`](https://chrome.google.com/webstore/detail/salesforce-lightning-grid/nenellcdpeipfeeiobkkchdpjdiophpg)
-
- ### ⚡ Components
-
-- ⚡ [Salesforce LWC Custom Lookup](https://github.com/Nisar-99/Salesforce-LWC-Custom-Lookup)
-- ⚡ [Salesforce LWC Datatable](https://github.com/Nisar-99/Salesforce-LWC-Datatable)
-- ⚡ [Salesforce LWC Popovers](https://github.com/Nisar-99/Salesforce-LWC-Popovers)
-- ⚡ [Salesforce LWC Select Option](https://github.com/Nisar-99/Salesforce-LWC-Select-option)
-- ⚡ [Salesforce LWC Custom Multifile Uploader](https://github.com/Nisar-99/LWC-Multi-File-Uploader)
+- ⚡ [Salesforce Custom Calendar][https://github.com/ShubhamPandey-Engineer/Leave-Tracker-LWC
+- ⚡ [Salesforce LWC Custom Lookup][[https://github.com/ShubhamPandey-Engineer/Leave-Tracker-LWC](https://github.com/ShubhamPandey-Engineer/LWC-Projects/tree/master/LWC-Projects/force-app/main/default/lwc/customLookupCmp)]
 
 ---
 ### Connect with me: </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="40">
