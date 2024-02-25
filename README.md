@@ -30,7 +30,7 @@ My name is Shubham Pandey
 
 
 
-[<img align="left" alt="Nisar | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://png.pngtree.com/element_our/png/20181213/inbox-vector-icon-png_267453.jpg)" />](https://www.linkedin.com/in/shubhampnd/)
+
 
 
 <br/>
