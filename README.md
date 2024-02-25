@@ -37,16 +37,15 @@ My name is Shubham Pandey
 ### Github Stats:
 
 <img  align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Nisar-99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Nisar's Github Stats" width="48%">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nisar-99&theme=radical&show_icons=true&border=e4e2e2" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamPandey-Engineer&theme=radical&show_icons=true&border=e4e2e2" />
  
- <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Nisar-99&row=4&theme=onedark&no-frame=true"/>
-  <img  src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Nisar-99&show_icons=true&hide_border=true&theme=radical"  alt="Nisar's Top Languages">
+ <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=ShubhamPandey-Engineer&row=4&theme=onedark&no-frame=true"/>
+  <img  src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=ShubhamPandey-Engineer&show_icons=true&hide_border=true&theme=radical"  alt="Nisar's Top Languages">
 
  
 
- <img src="https://komarev.com/ghpvc/?username=Nisar-99&color=brightgreen" alt="watching_count" />
+ <img src="https://komarev.com/ghpvc/?username=ShubhamPandey-Engineer&color=brightgreen" alt="watching_count" />
 <!--
-**Nisar-99/Nisar-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
