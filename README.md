@@ -25,7 +25,7 @@ Loves to play badminton and going for cycling.
 
 - ⚡ [Salesforce LWC Custom Calendar][https://github.com/ShubhamPandey-Engineer/Leave-Tracker-LWC]
 - ⚡ [Salesforce LWC Dynamic Search Engine][https://github.com/ShubhamPandey-Engineer/SearchEngine-LWC]
-- ⚡ [Salesforce LWC Custom Lookup][https://github.com/ShubhamPandey-Engineer/Custom Lookup LWC]
+- ⚡ [Salesforce LWC Custom Lookup][https://github.com/ShubhamPandey-Engineer/LWC-Projects/tree/master/LWC-Projects/force-app/main/default/lwc/customLookupCmp]
 - ⚡ [Other LWC's][https://github.com/ShubhamPandey-Engineer/LWC-Project]
 
 ---
